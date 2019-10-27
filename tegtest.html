@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<script>
+var myRequest = new Request('data.txt');
+  fetch(myRequest).then(function(response) {
+    return response.text().then(function(text) {
+	window.alert(text);
+    });
+  });
+window.alert(myRequest);
+</script>
+
+</body>
+</html> 

@@ -1,0 +1,15 @@
+Host: www.mstow.pl
+Cookie: ci_session=16gslb918cr06o91aplrtcrkfni0ap27; _ga=GA1.2.1037660703.1572180583; _gid=GA1.2.1870281227.1572180583; TEST_COOKIE=test1; highcontrast=no
+Set-Cookie: cilang_id=1; expires=Sun, 27-Oct-2019 12:52:17 GMT; Max-Age=0; path=/
+Host: www.mstow.pl
+Cookie: ci_session=16gslb918cr06o91aplrtcrkfni0ap27; _ga=GA1.2.1037660703.1572180583; _gid=GA1.2.1870281227.1572180583; TEST_COOKIE=test2; highcontrast=yes
+Set-Cookie: cilang_id=1; expires=Sun, 27-Oct-2019 12:52:18 GMT; Max-Age=0; path=/
+Host: www.mstow.pl
+Cookie: ci_session=16gslb918cr06o91aplrtcrkfni0ap27; _ga=GA1.2.1037660703.1572180583; _gid=GA1.2.1870281227.1572180583; TEST_COOKIE=test3; highcontrast=yes
+Host: www.mstow.pl
+Cookie: ci_session=16gslb918cr06o91aplrtcrkfni0ap27; _ga=GA1.2.1037660703.1572180583; _gid=GA1.2.1870281227.1572180583; TEST_COOKIE=test4; highcontrast=yes
+Host: www.mstow.pl
+Cookie: ci_session=test1; _ga=GA1.2.1037660703.1572180583; _gid=GA1.2.1870281227.1572180583; TEST_COOKIE=testLast2; highcontrast=no; _gat=1
+Host: connectivity-check.ubuntu.com
+
+
